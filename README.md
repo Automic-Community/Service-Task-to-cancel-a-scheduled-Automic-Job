@@ -13,8 +13,6 @@ Contents of Solution Package:
 								
 								*CancelJob_docu.pdf
 								
-								*AdHocStartProcessFlow2.PNG
-								
 								*AdHocStartProcessFlow.PNG
 								
 								*Properties.PNG
